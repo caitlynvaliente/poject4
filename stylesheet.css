@@ -25,7 +25,10 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
-body {
-    background-image: blue;
-}
+
+ body{
+	 background-image:url("img_dog.jpg");
+ }
+
+
 
